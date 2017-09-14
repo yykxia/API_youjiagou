@@ -232,11 +232,11 @@ namespace SFYWebApi
                 JObject jo = (JObject)JsonConvert.DeserializeObject(retString);
                 code = jo["code"].ToString().Replace("\"", "");
 
-                if (code == "1")
+                if (code == "0")
                 {
                     count++;
                 }
-                else if(code=="0")
+                else if (code == "-1")
                 {
                     errorMsg = jo["description"].ToString().Replace("\"", "");
                 }
