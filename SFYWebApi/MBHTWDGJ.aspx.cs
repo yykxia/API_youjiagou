@@ -28,14 +28,6 @@ namespace SFYWebApi
             if (Request["uCode"] != null && Request["mType"] != null)
             {
                 string uCode = Request["uCode"].ToString();
-                //object otmp = SqlSel.GetSqlScale(" select top 1 AddedTime from WDApi_logs order by AddedTime desc");
-                //string addtime = "";
-                //if (otmp != null)
-                //{
-                //    addtime = otmp.ToString();
-                //}
-                //string beginTime = addtime;
-                //DateTime endTime = DateTime.Now;
                 string vefyCode = System.Configuration.ConfigurationManager.AppSettings["uCode"];//接口接入验证码
 
                 if (1 == 1)
@@ -63,43 +55,14 @@ namespace SFYWebApi
                         Response.End();
 
                     }
-                    else if (Request["mType"] == "mSndGoods" && uCode == SqlSel.getcipher())
+                    else if (Request["mType"] == "mSndGoods" && uCode == vefyCode)
                     {
-                        //string orderlist = "";
+                        string OrderID = Request["OrderID"].ToString();
                         string OrderNO = Request["OrderNO"].ToString();
                         string SndStyle = Request["SndStyle"].ToString();
-                        //string SndStyle = System.Text.Encoding.UTF8.GetBytes(sndsty).ToString();
                         string BillID = Request["BillID"].ToString();
-                        //if (SndStyle.Contains("德邦"))
-                        //{
-                        //    orderlist = "debang";
-                        //}
-                        //else if (SndStyle.Contains("申通"))
-                        //{
-                        //    orderlist = "shentong";
-                        //}
-                        //else if (SndStyle.Contains("顺丰"))
-                        //{
-                        //    orderlist = "shunfeng";
-                        //}
-                        //else if (SndStyle.Contains("中通"))
-                        //{
-                        //    orderlist = "zhongtong";
-                        //}
-                        //else if (SndStyle.Contains("EMS"))
-                        //{
-                        //    orderlist = "ems";
-                        //}
-                        //else if (SndStyle.Contains("优速"))
-                        //{
-                        //    orderlist = "yousu";
-                        //}
-                        //else
-                        //{
-                        //    orderlist = "";
-                        //}
-
-                        string xml = wdgjV3API.mSndGoods(OrderNO, SndStyle, BillID);
+                        string CustomerID = Request["CustomerID"].ToString();
+                        string xml = wdgjV3API.mSndGoods(OrderNO, SndStyle, BillID, CustomerID,OrderID);
                         Response.Write(xml);
                         Response.End();
                     }

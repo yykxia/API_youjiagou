@@ -27,3 +27,11 @@ E:\code\索菲亚接口\SFYWebApi - 副本\SFYWebApi\SFYWebApi\obj\Debug\SFYWebA
 E:\code\索菲亚接口\SFYWebApi - 副本\SFYWebApi\SFYWebApi\bin\Newtonsoft.Json.dll
 E:\code\索菲亚接口\SFYWebApi - 副本\SFYWebApi\SFYWebApi\bin\Newtonsoft.Json.pdb
 E:\code\索菲亚接口\SFYWebApi - 副本\SFYWebApi\SFYWebApi\bin\Newtonsoft.Json.xml
+E:\code\projects\API_youjiagou\SFYWebApi\bin\SFYWebApi.dll
+E:\code\projects\API_youjiagou\SFYWebApi\bin\SFYWebApi.pdb
+E:\code\projects\API_youjiagou\SFYWebApi\bin\Newtonsoft.Json.dll
+E:\code\projects\API_youjiagou\SFYWebApi\bin\Newtonsoft.Json.pdb
+E:\code\projects\API_youjiagou\SFYWebApi\bin\Newtonsoft.Json.xml
+E:\code\projects\API_youjiagou\SFYWebApi\obj\Debug\ResolveAssemblyReference.cache
+E:\code\projects\API_youjiagou\SFYWebApi\obj\Debug\SFYWebApi.dll
+E:\code\projects\API_youjiagou\SFYWebApi\obj\Debug\SFYWebApi.pdb
