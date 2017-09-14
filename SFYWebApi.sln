@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SFYWebApi", "SFYWebApi\SFYWebApi.csproj", "{B429955B-42DE-4265-A8BB-F1A8F8358375}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B429955B-42DE-4265-A8BB-F1A8F8358375}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B429955B-42DE-4265-A8BB-F1A8F8358375}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B429955B-42DE-4265-A8BB-F1A8F8358375}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B429955B-42DE-4265-A8BB-F1A8F8358375}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

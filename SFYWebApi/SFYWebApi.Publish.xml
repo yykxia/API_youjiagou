@@ -1,0 +1,65 @@
+<publishData>
+  <publishTarget publishUrl="D:\yjg2mlily\">
+    <file relUrl="images/utbkgnd.gif" publishTime="10/28/2015 08:44:12" />
+    <file relUrl="images/LiveID16.gif" publishTime="10/28/2015 08:44:12" />
+    <file relUrl="bin/SFYWebApi.dll" publishTime="09/09/2017 09:39:15" />
+    <file relUrl="bin/Newtonsoft.Json.dll" publishTime="08/14/2010 13:55:22" />
+    <file relUrl="images/login-logo.png" publishTime="10/28/2015 08:51:54" />
+    <file relUrl="Web.config" publishTime="09/09/2017 00:04:16" />
+    <file relUrl="bin/Aspose.Cells.dll" publishTime="12/31/2015 13:38:42" />
+    <file relUrl="EditPwd.aspx" publishTime="12/03/2015 13:30:16" />
+    <file relUrl="CSS/login2.css" publishTime="10/28/2015 09:24:38" />
+    <file relUrl="JS/DatePicker/My97DatePicker.htm" publishTime="10/20/2015 15:37:55" />
+    <file relUrl="JS/DatePicker/calendar.js" publishTime="10/20/2015 15:37:55" />
+    <file relUrl="JS/DatePicker/skin/default/datepicker.css" publishTime="10/20/2015 15:37:55" />
+    <file relUrl="images/wave3header.jpg" publishTime="10/28/2015 08:44:12" />
+    <file relUrl="bin/Newtonsoft.Json.pdb" publishTime="08/14/2010 13:55:22" />
+    <file relUrl="loginapi.aspx" publishTime="10/28/2015 09:35:40" />
+    <file relUrl="JS/DatePicker/config.js" publishTime="10/20/2015 15:37:55" />
+    <file relUrl="bin/SFYWebApi.pdb" publishTime="09/09/2017 09:39:15" />
+    <file relUrl="bin/LitJSON.dll" publishTime="07/28/2010 14:32:32" />
+    <file relUrl="JS/DatePicker/lang/zh-cn.js" publishTime="10/20/2015 15:37:55" />
+    <file relUrl="images/nav-bg.gif" publishTime="10/28/2015 08:44:12" />
+    <file relUrl="AddressMap.aspx" publishTime="07/10/2017 20:10:33" />
+    <file relUrl="bin/Newtonsoft.Json.xml" publishTime="08/14/2010 13:55:22" />
+    <file relUrl="JS/DatePicker/skin/default/img.gif" publishTime="10/20/2015 15:37:55" />
+    <file relUrl="JS/tools.js" publishTime="10/28/2015 09:58:21" />
+    <file relUrl="MBHTWDGJ.aspx" publishTime="10/23/2015 11:22:59" />
+    <file relUrl="images/op-bg.gif" publishTime="10/28/2015 08:44:12" />
+    <file relUrl="Default.aspx" publishTime="10/19/2016 09:49:40" />
+    <file relUrl="adminexit.aspx" publishTime="10/28/2015 10:18:52" />
+    <file relUrl="JS/DatePicker/WdatePicker.js" publishTime="10/20/2015 15:37:55" />
+    <file relUrl="CSS/master2.css" publishTime="10/28/2015 08:36:10" />
+    <file relUrl="DDCXRQ.aspx" publishTime="03/25/2016 17:19:09" />
+  </publishTarget>
+  <publishTarget publishUrl="D:\sfy2mlily\">
+    <file relUrl="images/utbkgnd.gif" publishTime="10/28/2015 08:44:12" />
+    <file relUrl="images/LiveID16.gif" publishTime="10/28/2015 08:44:12" />
+    <file relUrl="images/login-logo.png" publishTime="10/28/2015 08:51:54" />
+    <file relUrl="Web.config" publishTime="07/10/2017 11:07:52" />
+    <file relUrl="JS/DatePicker/skin/default/img.gif" publishTime="10/20/2015 15:37:55" />
+    <file relUrl="bin/Aspose.Cells.dll" publishTime="12/31/2015 13:38:42" />
+    <file relUrl="loginapi.aspx" publishTime="10/28/2015 09:35:40" />
+    <file relUrl="CSS/login2.css" publishTime="10/28/2015 09:24:38" />
+    <file relUrl="JS/DatePicker/My97DatePicker.htm" publishTime="10/20/2015 15:37:55" />
+    <file relUrl="JS/DatePicker/calendar.js" publishTime="10/20/2015 15:37:55" />
+    <file relUrl="JS/DatePicker/skin/default/datepicker.css" publishTime="10/20/2015 15:37:55" />
+    <file relUrl="images/wave3header.jpg" publishTime="10/28/2015 08:44:12" />
+    <file relUrl="JS/DatePicker/WdatePicker.js" publishTime="10/20/2015 15:37:55" />
+    <file relUrl="bin/LitJSON.dll" publishTime="07/28/2010 14:32:32" />
+    <file relUrl="JS/DatePicker/config.js" publishTime="10/20/2015 15:37:55" />
+    <file relUrl="bin/SFYWebApi.pdb" publishTime="07/10/2017 20:54:56" />
+    <file relUrl="JS/DatePicker/lang/zh-cn.js" publishTime="10/20/2015 15:37:55" />
+    <file relUrl="images/nav-bg.gif" publishTime="10/28/2015 08:44:12" />
+    <file relUrl="AddressMap.aspx" publishTime="07/10/2017 20:10:33" />
+    <file relUrl="bin/SFYWebApi.dll" publishTime="07/10/2017 20:54:56" />
+    <file relUrl="JS/tools.js" publishTime="10/28/2015 09:58:21" />
+    <file relUrl="MBHTWDGJ.aspx" publishTime="10/23/2015 11:22:59" />
+    <file relUrl="images/op-bg.gif" publishTime="10/28/2015 08:44:12" />
+    <file relUrl="Default.aspx" publishTime="10/19/2016 09:49:40" />
+    <file relUrl="adminexit.aspx" publishTime="10/28/2015 10:18:52" />
+    <file relUrl="EditPwd.aspx" publishTime="12/03/2015 13:30:16" />
+    <file relUrl="CSS/master2.css" publishTime="10/28/2015 08:36:10" />
+    <file relUrl="DDCXRQ.aspx" publishTime="03/25/2016 17:19:09" />
+  </publishTarget>
+</publishData>

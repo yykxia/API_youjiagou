@@ -1,0 +1,29 @@
+D:\项目工程\索菲亚SRM接口\SFYWebApi\SFYWebApi\obj\Debug\ResolveAssemblyReference.cache
+D:\项目工程\索菲亚SRM接口\SFYWebApi\SFYWebApi\bin\SFYWebApi.dll
+D:\项目工程\索菲亚SRM接口\SFYWebApi\SFYWebApi\bin\SFYWebApi.pdb
+D:\项目工程\索菲亚SRM接口\SFYWebApi\SFYWebApi\obj\Debug\SFYWebApi.dll
+D:\项目工程\索菲亚SRM接口\SFYWebApi\SFYWebApi\obj\Debug\SFYWebApi.pdb
+D:\项目工程\索菲亚SRM接口\SFYWebApi\SFYWebApi\bin\LitJSON.dll
+D:\项目工程\索菲亚SRM接口\bak\2015-10-29\SFYWebApi\SFYWebApi\bin\SFYWebApi.dll
+D:\项目工程\索菲亚SRM接口\bak\2015-10-29\SFYWebApi\SFYWebApi\bin\SFYWebApi.pdb
+D:\项目工程\索菲亚SRM接口\bak\2015-10-29\SFYWebApi\SFYWebApi\obj\Debug\ResolveAssemblyReference.cache
+D:\项目工程\索菲亚SRM接口\bak\2015-10-29\SFYWebApi\SFYWebApi\obj\Debug\SFYWebApi.dll
+D:\项目工程\索菲亚SRM接口\bak\2015-10-29\SFYWebApi\SFYWebApi\obj\Debug\SFYWebApi.pdb
+E:\索菲亚接口\SFYWebApi\SFYWebApi\SFYWebApi\bin\SFYWebApi.dll
+E:\索菲亚接口\SFYWebApi\SFYWebApi\SFYWebApi\bin\SFYWebApi.pdb
+E:\索菲亚接口\SFYWebApi\SFYWebApi\SFYWebApi\obj\Debug\ResolveAssemblyReference.cache
+E:\索菲亚接口\SFYWebApi\SFYWebApi\SFYWebApi\obj\Debug\SFYWebApi.dll
+E:\索菲亚接口\SFYWebApi\SFYWebApi\SFYWebApi\obj\Debug\SFYWebApi.pdb
+E:\code\索菲亚接口\SFYWebApi\SFYWebApi\SFYWebApi\bin\SFYWebApi.dll
+E:\code\索菲亚接口\SFYWebApi\SFYWebApi\SFYWebApi\bin\SFYWebApi.pdb
+E:\code\索菲亚接口\SFYWebApi\SFYWebApi\SFYWebApi\obj\Debug\ResolveAssemblyReference.cache
+E:\code\索菲亚接口\SFYWebApi\SFYWebApi\SFYWebApi\obj\Debug\SFYWebApi.dll
+E:\code\索菲亚接口\SFYWebApi\SFYWebApi\SFYWebApi\obj\Debug\SFYWebApi.pdb
+E:\code\索菲亚接口\SFYWebApi - 副本\SFYWebApi\SFYWebApi\bin\SFYWebApi.dll
+E:\code\索菲亚接口\SFYWebApi - 副本\SFYWebApi\SFYWebApi\bin\SFYWebApi.pdb
+E:\code\索菲亚接口\SFYWebApi - 副本\SFYWebApi\SFYWebApi\obj\Debug\ResolveAssemblyReference.cache
+E:\code\索菲亚接口\SFYWebApi - 副本\SFYWebApi\SFYWebApi\obj\Debug\SFYWebApi.dll
+E:\code\索菲亚接口\SFYWebApi - 副本\SFYWebApi\SFYWebApi\obj\Debug\SFYWebApi.pdb
+E:\code\索菲亚接口\SFYWebApi - 副本\SFYWebApi\SFYWebApi\bin\Newtonsoft.Json.dll
+E:\code\索菲亚接口\SFYWebApi - 副本\SFYWebApi\SFYWebApi\bin\Newtonsoft.Json.pdb
+E:\code\索菲亚接口\SFYWebApi - 副本\SFYWebApi\SFYWebApi\bin\Newtonsoft.Json.xml
