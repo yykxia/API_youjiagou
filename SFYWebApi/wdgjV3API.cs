@@ -207,6 +207,7 @@ namespace SFYWebApi
 
             foreach (var id in OrderNO.Split(','))
             {
+                string responseUrl = string.Empty;
                 //设置订单物流相关参数信息
                 OrderNotice notice = new OrderNotice();
                 notice.action = ucodeShopAction;
@@ -226,8 +227,8 @@ namespace SFYWebApi
                 JavaScriptSerializer jss = new JavaScriptSerializer();
                 jsonStr = jss.Serialize(notice);
                 //推送相关物流信息
-                url = url + jsonStr;
-                string retString = getData(url);
+                responseUrl = url + jsonStr;
+                string retString = getData(responseUrl);
 
                 JObject jo = (JObject)JsonConvert.DeserializeObject(retString);
                 code = jo["code"].ToString().Replace("\"", "");
