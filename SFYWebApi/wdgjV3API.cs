@@ -193,7 +193,7 @@ namespace SFYWebApi
 
         #region 发货通知
         public static string mSndGoods(string OrderNO, string SndStyle, string BillID,
-                                        string CustomerID, string OrderID)
+                                        string CustomerID, string OrderID, string SndDate)
         {
             string jsonStr = string.Empty;
             string ucodeShopAction = "ucodeShopAction";
@@ -214,10 +214,10 @@ namespace SFYWebApi
                 Param param = new Param()
                 {
                     uCode = uCode,
-                    informSn = OrderNO,
+                    informSn = id,
                     operateUser = "Mlily_API",
                     operateUserId = CustomerID,
-                    deliveryTime = DateTime.Now.ToString(),
+                    deliveryTime = SndDate,
                     waybillSn = BillID,
                     serviceName = SndStyle
                 };
@@ -244,7 +244,7 @@ namespace SFYWebApi
 
             if (count > 0)
             {
-                return xml(1, errorMsg);
+                return "<?xml version='1.0' encoding='gb2312'?><rsp><result>1</result></rsp>";
             }
             else
             {
@@ -271,7 +271,7 @@ namespace SFYWebApi
                 xml.Append("<?xml version='1.0' encoding='gb2312'?>");
                 xml.Append("<rsp>");
                 xml.Append("<result>0</result>");
-                xml.Append("<cause>" + reason + "</cause>");
+                xml.Append("<cause>Failed</cause>");
                 xml.Append("<goodsType></goodsType>");
                 xml.Append("</rsp>");
                 return xml.ToString();
