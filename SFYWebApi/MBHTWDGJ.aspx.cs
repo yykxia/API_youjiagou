@@ -62,7 +62,8 @@ namespace SFYWebApi
                         string SndStyle = Request["SndStyle"].ToString();
                         string BillID = Request["BillID"].ToString();
                         string CustomerID = Request["CustomerID"].ToString();
-                        string xml = wdgjV3API.mSndGoods(OrderNO, SndStyle, BillID, CustomerID,OrderID);
+                        string SndDate = Request["SndDate"].ToString();
+                        string xml = wdgjV3API.mSndGoods(OrderNO, SndStyle, BillID, CustomerID, OrderID, SndDate);
                         Response.Write(xml);
                         Response.End();
                     }
